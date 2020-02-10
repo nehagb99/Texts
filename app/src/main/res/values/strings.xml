@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Texts</string>
+    <string-array name="messages_array">
+        <item>Hello!</item>
+        <item>TJ Rocks!</item>
+        <item>Hello world</item>
+        <item>This is the texts app</item>
+        <item>Here are some messages</item>
+    </string-array>
+</resources>
